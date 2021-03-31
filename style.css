@@ -1,4 +1,4 @@
-.mainContainer{
+.mainContainer {
     width: 500px;
     height: 300px;
     margin: 100px auto;
@@ -7,18 +7,22 @@
     justify-content: center;
     align-items: center;
 }
-input:nth-child(3){
+
+input:nth-child(3) {
     background-color: yellow;
     width: 60px;
 }
-input:nth-child(4){
+
+input:nth-child(4) {
     background-color: red;
     width: 60px;
 }
-input:nth-child(5){
+
+input:nth-child(5) {
     background-color: yellowgreen;
     width: 60px;
 }
-span{
-    color:red;
+
+span {
+    color: red;
 }
